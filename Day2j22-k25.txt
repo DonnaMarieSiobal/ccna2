@@ -26,11 +26,11 @@ tracert www.x-art.com
 
 Q2: Private IP address are IP give to connect
     to local network.
-   big/large:  10.0.0.0/8 -> 16,777,214 ip address.
+   big/large:  10.0.0.0/8 -> 16,777,214 ip address. BIG COMPANIES
   
-   medium:    172.16.0.0/16 -> 64,534 ip address
+   medium:    172.16.0.0/16 -> 64,534 ip address VPN ACCESS
 
-   home:   192.168.0-254.0/24 -> 254 ip address
+   home:   192.168.0-254.0/24 -> 254 ip address PANG BAJAY LANGS
 
 Q3: what are the Five ClassFulles of IP address:
           "route print"
@@ -49,20 +49,20 @@ TASK3: how a network/systems/Prog engineer looks
 
 TASK4: Bit Length:
 
-195 = b
-13 =  b
-1750 = 1b
-855 =  b
-2,700 =  b
-2 =  b
-376 =  b
-888 = b
-8 = b
-212 = b 
-4,500 = b
-81 = b
-8,500  = b  
-55 = b
+195 = 8b
+13 =  4b
+1750 = 11b
+855 =  10b
+2,700 =  12b
+2 =  2b
+376 =  9b
+888 = 10b
+8 = 4b
+212 = 9b 
+4,500 = 13b
+81 = 7b
+8,500  = 14b  
+55 = 6b
 
 TASK5: Subnetting:
 Large: 10.0.0..0/8 -> 16M
